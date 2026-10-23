@@ -4,3 +4,8 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 *.pth
+
+# LLMs-from-scratch
+books/LLMs-from-scratch/gpt2/
+books/LLMs-from-scratch/ch06/data/
+books/LLMs-from-scratch/ch06/*-plot.pdf
